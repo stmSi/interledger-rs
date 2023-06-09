@@ -3,7 +3,7 @@ info:
   title: Interledger-rs API Specification
   version: "1.0"
 servers:
-  - url: https://rs3.xpring.dev
+  - url: http://localhost:7770
 tags:
   - name: admins
     description: Secured Admin-only calls
